@@ -1,1 +1,2 @@
-This Repository is for understanding the RestAPIs of Github, Where youll know how to add using curl command
+## My Repository
+Welcome to add in readme. This is an updated README file.
